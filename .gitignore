@@ -1,0 +1,14 @@
+# Environments
+.env
+__pycache__/
+
+# Unrelated Agent Files
+agent.py
+finance.py
+memory.py
+team.py
+
+# Databases and IDE files
+agno.db
+.kilo/
+.qodo/
